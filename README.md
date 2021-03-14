@@ -1,5 +1,5 @@
 # Library-Management-System-Project
-This is a desktop application that assists both the librarian and the student with the library work.
+Desktop application to help managers or librarians to add, remove, and edit books,  and help users to borrow books.
 
 
 I developed it when I was in my second year at the Faculty of Computers and Information, Assiut University
